@@ -18,3 +18,5 @@ Python, pandas, NumPy, SciPy, statsmodels, Matplotlib, and factor_analyzer.
 
 ## Important Note
 The dataset is simulated for educational purposes. Results should not be generalized to real populations.
+## Full Analysis Report
+[View the Statistical Analysis Report (PDF)](Statistical_Analysis_Report.pdf)
